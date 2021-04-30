@@ -1,6 +1,6 @@
 # Lorentz Attractor
 
-Generate a plot of the Lorenz attractor using a combination of [`Rust`](https://www.rust-lang.org/) and [`Python`](https://www.python.org/).
+Generate a plot of the [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_attractor) using a combination of [`Rust`](https://www.rust-lang.org/) and [`Python`](https://www.python.org/).
 
 ![lorenz-attractor](data/attractor.png)
 
