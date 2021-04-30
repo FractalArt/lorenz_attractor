@@ -27,7 +27,7 @@ which will output the the file [`data/attractor.png`](data/attractor.png).
 
 ## TODO
 
-* Add a command line interface to set initial condition and the parameters of the Lorenz equations dynamically.
+* ~~Add a command line interface to set initial condition and the parameters of the Lorenz equations dynamically.~~
 * To the plotting entirely in `Rust`. If someone knows how this can be done, I'd be glad to hear suggestions. I know that there are plotting libraries out there, but so far, I have not found one producing results that are as good as those obtained using `matplotlib`.
 
 ## Licensing
